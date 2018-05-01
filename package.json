@@ -17,9 +17,14 @@
   },
   "homepage": "https://github.com/suryamurugan/Full-Stack-React-FE-Express-BE-App#readme",
   "dependencies": {
+    "browser-sync": "^2.24.1",
+    "browserify": "^16.2.0",
     "ejs": "^2.5.9",
     "express": "^4.16.3",
     "gulp": "^3.9.1",
-    "gulp-live-server": "0.0.31"
+    "gulp-live-server": "0.0.31",
+    "react": "^16.3.2",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^2.0.0"
   }
 }
