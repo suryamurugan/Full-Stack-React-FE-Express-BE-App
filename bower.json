@@ -1,0 +1,17 @@
+{
+  "name": "full-stack-react-fe-express-be-app",
+  "description": "This is a full stack webapp using react for frontend and express for backend.",
+  "main": "index.js",
+  "authors": [
+    "Surya Murugan"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/suryamurugan/Full-Stack-React-FE-Express-BE-App",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
