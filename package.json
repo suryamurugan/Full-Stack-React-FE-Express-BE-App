@@ -18,6 +18,8 @@
   "homepage": "https://github.com/suryamurugan/Full-Stack-React-FE-Express-BE-App#readme",
   "dependencies": {
     "ejs": "^2.5.9",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.31"
   }
 }
